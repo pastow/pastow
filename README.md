@@ -1,1 +1,1 @@
-[![Header](https://github.com/pastow/pastow/blob/main/assets/alucard-luka.gif)]
+![Header](https://github.com/pastow/pastow/blob/main/assets/alucard-luka.gif)
